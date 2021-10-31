@@ -1,4 +1,4 @@
-# Todo-List
+# To-do-List
 #### Créditos:
 - Código fonte - Desenvolvido com referência no Link:
 #### Canal:
@@ -9,6 +9,6 @@
 - Gradient - https://cssgradient.io/
 - Pexels - https://www.pexels.com/pt-br/
 
-Desenvolendo um App **Todo List** em HTML5, CSS3 e JavaScript. 
+Desenvolendo um App **To-do-List** em HTML5, CSS3 e JavaScript. 
 
 <img src='./todo-list/img/todo.png ' width='100%'/>
