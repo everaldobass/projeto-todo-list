@@ -9,6 +9,6 @@
 - Gradient - https://cssgradient.io/
 - Pexels - https://www.pexels.com/pt-br/
 
-Desenvolendo um Formulário de **Login** com o Menu em HTML5, CSS3 e JavaScript 
+Desenvolendo um App **Todo List** em HTML5, CSS3 e JavaScript. 
 
 <img src='./todo-list/img/todo.png ' width='100%'/>
